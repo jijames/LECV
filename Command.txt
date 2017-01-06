@@ -1,0 +1,6 @@
+
+vlc stone.avi --video-filter=scene --scene-format=jpg --rate=5 --vout=dummy --scene-prefix=test 
+--scene-ratio=200 --scene-path=hello
+
+vlc filename --video-filter=scene 
+
